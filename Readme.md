@@ -1,4 +1,4 @@
-## Ambiente simple para **dev-docker-environment**
+## 🐳 Ambiente simple para **dev-docker-environment**
 
 Se utiliza la preview de dev environment de docker.  
 Se crea la carpeta **.devcontainer**
@@ -10,17 +10,17 @@ Para VS.Code se necesita:
 * Extension de remote container [link](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 
-## Apps de la imagen para el repo
+## 💻 Apps de la imagen para el repo
 
 * [X] Python
 * [X] Node.js
 
-## Para controlar la instalación
+## ☑️ Para controlar la instalación
 
 > python --version
 
 > node --version
 
-## Run
+## 🏃‍♂️ Run
 
 > python app.py
